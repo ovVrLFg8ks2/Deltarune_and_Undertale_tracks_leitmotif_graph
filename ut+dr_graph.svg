@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.9835164"
-     inkscape:cx="1130.7127"
-     inkscape:cy="505.27625"
+     inkscape:cx="1088.1455"
+     inkscape:cy="948.04238"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -313,6 +313,16 @@
          id="tspan43"
          x="323.58127"
          y="251.66478">The Door</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff3434;fill-opacity:1;stroke:none;stroke-width:0.0248708;stroke-dasharray:none;stroke-opacity:1"
+       x="312.19876"
+       y="260.53406"
+       id="text1-6-3-1-1-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="312.19876"
+         y="260.53406">Despair</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff3434;fill-opacity:1;stroke:none;stroke-width:0.0248708;stroke-dasharray:none;stroke-opacity:1"
@@ -631,21 +641,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="344.65527"
-       y="243.11375"
+       x="326.56421"
+       y="263.51053"
        id="text1-2-0-2-0-4-2-3"><tspan
          sodipodi:role="line"
-         id="tspan10">Burn In Despair!</tspan></text>
+         id="tspan10"
+         x="326.56421"
+         y="263.51053">Burn In Despair!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9fdd8d;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="327.47137"
-       y="244.22133"
+       x="324.72223"
+       y="256.81412"
        id="text1-2-0-2-0-4-2-3-5"><tspan
          sodipodi:role="line"
          id="tspan40"
-         x="327.47137"
-         y="244.22133">Black Knife</tspan></text>
+         x="324.72223"
+         y="256.81412">Black Knife</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 356.78457,243.97296 5.89329,5.42557"
@@ -654,12 +666,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bf1c7a;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="328.13086"
-       y="265.42871"
+       y="243.87906"
        id="text1-2-0-2-0-4-2-3-9"><tspan
          sodipodi:role="line"
          id="tspan42"
          x="328.13086"
-         y="265.42871">The Chase</tspan></text>
+         y="243.87906">The Chase</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bf1c7a;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
@@ -678,13 +690,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bf1c7a;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="345.43439"
-       y="256.91998"
+       x="351.81946"
+       y="243.88377"
        id="text1-2-0-2-0-4-2-3-9-2"><tspan
          sodipodi:role="line"
          id="tspan46"
-         x="345.43439"
-         y="256.91998">Cliffs</tspan></text>
+         x="351.81946"
+         y="243.88377">Cliffs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9fdd8d;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
@@ -695,10 +707,6 @@
          id="tspan47"
          x="351.45657"
          y="262.57043">ERAM</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 350.98482,256.04018 11.97367,-3.46114"
-       id="path47" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 357.9071,260.90448 7.29646,-7.39"
@@ -912,10 +920,6 @@
        d="m 318.57721,190.0082 26.49685,-4.43101"
        id="path71"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 338.45644,243.31308 5.34087,-0.70848"
-       id="path73" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 355.67764,223.38869 12.4981,26.02824"
@@ -1785,17 +1789,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5388f2;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="279.09146"
-       y="271.02371"
+       x="251.55579"
+       y="262.4216"
        id="text1-65-3-2-8-9"><tspan
          sodipodi:role="line"
          id="tspan179"
-         x="279.09146"
-         y="271.02371">Dialtone</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 277.97389,256.54256 3.16093,12.3167"
-       id="path179" />
+         x="251.55579"
+         y="262.4216">Dialtone</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5388f2;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
@@ -1809,13 +1809,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="237.96318"
-       y="289.1842"
+       x="219.90344"
+       y="288.3063"
        id="text1-65-3-2-8-6-6"><tspan
          sodipodi:role="line"
          id="tspan193"
-         x="237.96318"
-         y="289.1842">Power of NEO</tspan></text>
+         x="219.90344"
+         y="288.3063">Power of NEO</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 274.26798,256.10656 -5.34086,11.7717"
@@ -2003,13 +2003,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9fdd8d;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="233.24814"
-       y="292.79153"
+       x="307.40399"
+       y="270.88715"
        id="text1-65-3-2-8-6-66"><tspan
          sodipodi:role="line"
          id="tspan194"
-         x="233.24814"
-         y="292.79153">BURNING EYES</tspan></text>
+         x="307.40399"
+         y="270.88715">BURNING EYES</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
@@ -2030,14 +2030,6 @@
          id="tspan199"
          x="159.28801"
          y="296.83069">But the Earth Refused to Die</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 230.66907,281.82993 6.86683,5.55887"
-       id="path195" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 228.70712,282.37492 4.1419,8.28378"
-       id="path196" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 198.72992,277.67908 -9.20518,11.89194"
@@ -3589,10 +3581,6 @@
        id="path372" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 329.09899,252.28983 2.73203,10.55897"
-       id="path373" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 307.62497,235.57584 6.99641,-3.02831"
        id="path374"
        sodipodi:nodetypes="cc" />
@@ -4985,5 +4973,37 @@
        style="fill:#81dd8d;stroke:#7d7d7d;stroke-width:0.0879999;stroke-linecap:square;paint-order:markers fill stroke;fill-opacity:1;stroke-opacity:1"
        d="m 282.18347,143.22379 47.90847,-3.63704"
        id="path13" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 259.17229,261.21197 11.30691,-5.67563"
+       id="path16" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 329.14217,252.29946 0.44341,2.79347"
+       id="path73" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 340.93681,262.49786 22.25913,-9.84367"
+       id="path97" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 324.38557,256.66154 -3.95058,2.19476"
+       id="path106" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 319.99605,260.48669 5.45555,2.06935"
+       id="path107" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 315.41841,261.17648 -0.7525,7.58758"
+       id="path110" />
+    <path
+       style="fill:#81dd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 234.33769,280.23955 72.4271,-10.09592"
+       id="path111" />
+    <path
+       style="fill:#800000;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 226.56197,280.8574 -0.50166,5.71558"
+       id="path134" />
   </g>
 </svg>
