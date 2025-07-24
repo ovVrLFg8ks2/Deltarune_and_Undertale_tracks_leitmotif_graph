@@ -27,14 +27,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.1096647"
-     inkscape:cx="1805.9742"
-     inkscape:cy="1379.3661"
-     inkscape:window-width="1790"
-     inkscape:window-height="1350"
-     inkscape:window-x="760"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
+     inkscape:zoom="2.9835164"
+     inkscape:cx="1130.7127"
+     inkscape:cy="505.27625"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#000000ff" />
   <defs
@@ -2705,12 +2705,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bf1c7a;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="148.4843"
-       y="351.82974"
+       y="351.30057"
        id="text1-65-3-2-8-6-66-6-4-2-32-0-6-42"><tspan
          sodipodi:role="line"
          id="tspan271"
          x="148.4843"
-         y="351.82974">Fanfare (from &quot;Rose of Winter&quot;)</tspan></text>
+         y="351.30057">Fanfare (from &quot;Rose of Winter&quot;)</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 167.63708,330.5157 -4.68126,8.00236"
@@ -3026,7 +3026,7 @@
          y="336.47809">Paradise, Paradise</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 84.354042,324.13358 12.866423,-6.57032"
+       d="m 84.354042,324.13358 12.176641,-6.8525"
        id="path299"
        sodipodi:nodetypes="cc" />
     <text
@@ -3799,13 +3799,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
-       x="281.20642"
-       y="138.17146"
+       x="330.69083"
+       y="140.21114"
        id="text1-65-27-8-5-6-07"><tspan
          sodipodi:role="line"
          id="tspan392"
-         x="281.20642"
-         y="138.17146">MEGALOVANIA</tspan></text>
+         x="330.69083"
+         y="140.21114">MEGALOVANIA</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 267.65943,144.66447 -11.14968,4.5411"
@@ -4482,11 +4482,6 @@
        d="m 241.0111,123.12632 4.51248,-5.06786"
        id="path469" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 278.07438,141.95654 7.00203,-3.4866"
-       id="path470"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0881063;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 140.78067,152.34615 6.18525,5.10528"
        id="path473" />
@@ -4923,13 +4918,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:AlphaPixels;-inkscape-font-specification:'AlphaPixels, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="278.89001"
-       y="140.46262"
+       x="294.6532"
+       y="141.57114"
        id="text98-9"><tspan
          sodipodi:role="line"
          id="tspan98-2"
-         x="278.89001"
-         y="140.46262">?</tspan></text>
+         x="294.6532"
+         y="141.57114">?</tspan></text>
     <path
        style="fill:#ffff00;fill-opacity:1;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="M 66.219051,230.65006 97.07111,223.11305"
@@ -4982,5 +4977,13 @@
        d="M 120.51843,90.810067 142.5115,82.385304"
        id="path129"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#9fdd8d;stroke:#ffffff;stroke-width:0.0879999;stroke-linecap:square;paint-order:markers fill stroke"
+       d="m 345.26714,126.41819 -7.14864,11.97712"
+       id="path12" />
+    <path
+       style="fill:#81dd8d;stroke:#7d7d7d;stroke-width:0.0879999;stroke-linecap:square;paint-order:markers fill stroke;fill-opacity:1;stroke-opacity:1"
+       d="m 282.18347,143.22379 47.90847,-3.63704"
+       id="path13" />
   </g>
 </svg>
